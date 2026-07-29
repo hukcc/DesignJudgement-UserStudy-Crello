@@ -2,8 +2,8 @@
 
 A public, mobile-friendly, **blind A/B design study**. Each trial shows two designs with the same
 content — a human **golden** reference and an **AI candidate** — with identity hidden and left/right
-randomized per participant. The participant picks the better-looking one. It's **30 randomly-sampled
-pairs** (~6–8 min). At the end the page shows how the participant did versus every judge model, broken
+randomized per participant. The participant picks the better-looking one. It's **100 randomly-sampled
+pairs** (~20–25 min). At the end the page shows how the participant did versus every judge model, broken
 down by whether the models were mostly wrong / wavering / mostly right on each pair.
 
 Results are **submitted automatically** to a Google Sheet on finish (with a manual **Export JSON**
